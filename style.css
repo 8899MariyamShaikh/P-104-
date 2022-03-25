@@ -1,0 +1,26 @@
+body {
+    color: rgb(240, 194, 224);
+    background-color: rgba(102, 75, 121, 0.856);
+}
+
+.heading {
+    width: 85%;
+    font-size: 25px;
+}
+
+#camera {
+    border: 2px solid rgb(99, 0, 129);
+    width : 350px;
+    height: 300px;
+}
+
+.name_of_objects, #result_object_name, #result_object_accuracy {
+    color: rgb(99, 0, 129);
+}
+
+.line {
+    height: 6px;
+    background-color: rgb(99, 46, 79);
+    width: 1250px;
+    margin: 8px auto;
+}
